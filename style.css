@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+.my-image{
+    width: 150px;
+    height: 150px;
+    margin-top: 51px;
+    border-radius: 50%;
+}
+.main-block{
+    display: flex;
+}
+.my-name{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: capitalize;
+    color: black;    
+}
+.about-information-block-first{
+width: 1400px;
+height: auto;
+background:  #e08534;  
+
+}
+.main-about-information{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+}
+.my-profile{
+font-family: Roboto;
+font-weight: 400;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 2%;
+text-transform: capitalize;
+color: #FFFFFFB2;
+text-align: center;
+}
+.details{
+font-family: Roboto;
+font-weight: 700;
+font-size: 25px;
+line-height: 100%;
+letter-spacing: 2%;
+text-transform: capitalize;
+margin-left: 45px;
+color: black;
+}
+.no-main-text{
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 200%;
+    letter-spacing: 2%;
+    text-transform: capitalize;
+    color: #FFFFFFB2;
+    margin-left: 45px;
+    text-decoration: none;
+}
+.main-text{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 2%;
+margin-left: 45px;
+}
+.main-about-information-2{
+    margin-top: 85px;
+    padding-bottom: 80px;
+}
+.about-information-block-second{
+    background-color: black;
+    
+}
+.details-second{
+    font-family: Roboto;
+font-weight: 700;
+font-size: 25px;
+line-height: 100%;
+letter-spacing: 2%;
+text-transform: capitalize;
+margin-left: 45px;
+color: #e08534;
+
+}
+.second-block-1{
+    margin-top: 65px;
+}
